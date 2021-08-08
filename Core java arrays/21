@@ -2,11 +2,11 @@
 
 The number of Arguments is limited to maximum of 10.
 
-
 Eg) Array -> 10,20,10,30,40,100,99
 
 O/P:10
 
+code:
 
 public class array {
 
